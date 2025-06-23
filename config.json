@@ -1,0 +1,12 @@
+{
+  "_comment": "Parametros de configuracion Modbus RTU",
+  "modbus": {
+    "port": "COM5",
+    "baudrate":9600,
+    "bytesize": 8,
+    "parity":"N",
+    "stopbits":1,
+    "timeout": 1,
+    "register_temp1": 0
+  }
+}
